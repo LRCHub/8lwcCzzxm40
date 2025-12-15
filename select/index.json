@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハロー・ポラリス",
+  "base_artist": "オグリキャップ (CV. 高柳知葉)、タマモクロス (CV. 大空直美)",
+  "createdAt": "2025-12-15T12:42:50.574416Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハロー・ポラリス",
+      "artist": "オグリキャップ (CV. 高柳知葉)、タマモクロス (CV. 大空直美)",
+      "has_synced": false,
+      "path": "select/pl_01_ハロー・ポラリス_オグリキャップ_(CV._高柳知葉)、タマモクロス_(CV._大空直美).txt"
+    }
+  ]
+}
